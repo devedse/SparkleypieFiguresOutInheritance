@@ -39,7 +39,7 @@ public class ConsoleLogger : ILogger
         Console.WriteLine(txt);
     }
 }
-
+```
 
 #### Implementing an abstract class
 
